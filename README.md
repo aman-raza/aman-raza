@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 
 ## :mag_right: Find me on :point_down:
 
-### Linkedin :point_right: https://www.linkedin.com/in/aman-r-558b38186/
-### Twitter :point_right: https://twitter.com/_amanraza
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+[1]: http://www.twitter.com/amanraza
+[6]: http://www.github.com/aman-raza
 
 ## :star: Languages & Skills :dart:
 
