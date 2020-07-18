@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'M Aman Raza Self taught proggrammer & web Developer.
 
 <!--
 **aman-raza/aman-raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
