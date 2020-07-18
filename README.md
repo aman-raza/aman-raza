@@ -1,4 +1,4 @@
-### Hi there 👋 I'm aman a Self Taught Programmer & Web Developer.
+### Hi there 👋 I'm aman from :in: a Self Taught Programmer & Web Developer.
 
 <!--
 **aman-raza/aman-raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
