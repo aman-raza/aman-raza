@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 
 ## :mag_right: Find me on :point_down:
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-[1]: http://www.twitter.com/amanraza
-[6]: http://www.github.com/aman-raza
+### https://camo.githubusercontent.com/45e6bebceba49c2cf76b1b3770b1adbe24e6c454/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667
 
 ## :star: Languages & Skills :dart:
 
