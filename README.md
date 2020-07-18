@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 #### Linkedin :point_right: https://www.linkedin.com/in/aman-r-558b38186/
 #### Twitter :point_right: https://twitter.com/_amanraza
 
-## :star: Languages & Skills :dart:
+### :star: Languages & Skills :dart:
 
-### C (Programming Languages)
-### Python (Programming Languages)
-### CyberSecurity
-### JavaScript (Programming Languages)
-### HTML & CSS
+#### C (Programming Languages)
+#### Python (Programming Languages)
+#### CyberSecurity
+#### JavaScript (Programming Languages)
+#### HTML & CSS
