@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ### :mag_right: find me on :point_down:
 
-Linkedin :point_right: https://www.linkedin.com/in/aman-r-558b38186/
-Twitter :point_right: https://twitter.com/_amanraza
+## Linkedin :point_right: https://www.linkedin.com/in/aman-r-558b38186/
+## Twitter :point_right: https://twitter.com/_amanraza
