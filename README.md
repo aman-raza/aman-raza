@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/aman-r-558b38186/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> 
 <a href="https://twitter.com/_amanraza" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a> 
 <a href="mailto:amanraza1234@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://instagram.com/amanrazaonline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=3f729b&logo=instagram&logoColor=white" alt="Twitter"></a>
+<a href="https://instagram.com/amanrazaonline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ### :star: Languages & Skills :dart:
 
