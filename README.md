@@ -10,9 +10,6 @@
 <a href="https://twitter.com/_amanraza" target="_blank"><img src="https://img.shields.io/badge/-amanraza-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a> 
 <a href="mailto:amanraza1234@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-amanraza-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
 
-###  :point_right: [Linkedin](https://www.linkedin.com/in/aman-r-558b38186/)
-###  :point_right: [Twitter](https://twitter.com/_amanraza)
-
 ### :star: Languages & Skills :dart:
 
 #### C (Programming Languages)
