@@ -5,8 +5,8 @@
 
 ## :mag_right: Find me on :point_down:
 
-#### [Linkedin] :point_right: (https://www.linkedin.com/in/aman-r-558b38186/)
-#### [Twitter] :point_right: (https://twitter.com/_amanraza)
+####  :point_right: [Linkedin](https://www.linkedin.com/in/aman-r-558b38186/)
+####  :point_right: [Twitter](https://twitter.com/_amanraza)
 
 ### :star: Languages & Skills :dart:
 
