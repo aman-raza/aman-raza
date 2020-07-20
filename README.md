@@ -12,10 +12,10 @@
 
 ### :star: Languages & Skills :dart:
 
-#### C (Programming Languages)
-#### Python (Programming Languages)
-#### CyberSecurity
-#### JavaScript (Programming Languages)
-#### HTML & CSS
+#### :black_small_square: C (Programming Languages)
+#### :black_small_square: Python (Programming Languages)
+#### :black_small_square: CyberSecurity
+#### :black_small_square: JavaScript (Programming Languages)
+#### :black_small_square: HTML & CSS
 
 ![bottom](https://png2.cleanpng.com/sh/d950a5ebede9dcb9055ddb5b33d80d4d/L0KzQYm3UsE6N5RwfZH0aYP2gLBuTgNqdJl0jdd9dHWwc7r7mgNkaaFqRdRAaXznebBuTflkd58ye9H1b4Kwc7r7mb1jfZpxfNt3Zz3rf73zjCcuapJog9l7b4XxdH68gchjP2Q1S9Y5ZHa7SXA7Usg0PWE8TqMAMUmzSIm6WMc5PWY7RuJ3Zx==/kisspng-silhouette-cityscape-building-icon-color-city-building-hollow-background-5a8b7303d0df89.4283507615190883878556.png)
