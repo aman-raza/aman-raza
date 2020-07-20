@@ -10,7 +10,7 @@
 <a href="mailto:amanraza1234@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://instagram.com/amanrazaonline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-### Languages & Skills :dart:
+## Languages & Skills :dart:
 
 #### :radio_button: C (Programming Languages)
 #### :radio_button: Python (Programming Languages)
