@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Aman a Self Taught Programmer & Web Developer   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aman-raza.visitor-badge)
+## Hi there 👋 I'm Aman a Self Taught Programmer & Web Developer   :octocat:![visitors](https://visitor-badge.laobi.icu/badge?page_id=aman-raza.visitor-badge)
 ![up](https://png2.cleanpng.com/sh/217ebfc361319835628260caadacddb1/L0KzQYm3U8ExN5x7j5H0aYP2gLBuTgBieJZ3RdRAboTsfri0kPFzfKoye95ycD3kgsW0gB9td6MyfNdsb4LkhLr9hb1paZ9sgdDwLXbvcbi0kPlkfKZ3feU2NXHkQ7boVslmOWQ7S6Q3OUS7SIK9VMkyPWM1Tqs6OEG6SYO5Vb5xdpg=/kisspng-paper-bunting-party-clip-art-color-decorative-hanging-flag-pictures-5aa3ea69e13632.9488164915206918179225.png)
 ## About Me :smiley: 
 #### Love :blue_heart: to explore new fields & technologies, It keeps me motivated to learn more and delve deep and acquire better insights of new trends & technologies to work on.
