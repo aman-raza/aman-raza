@@ -14,7 +14,7 @@
 
 #### :radio_button: C (Programming Languages)
 #### :radio_button: Python (Programming Languages)
-#### :radio_button: CyberSecurity
+#### :radio_button: Networking
 #### :radio_button: JavaScript (Programming Languages)
 #### :radio_button: HTML & CSS
 
