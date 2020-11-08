@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Aman a Self Taught Programmer & Web Developer   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aman-raza.visitor-badge)
+## Hi there 👋 I'm Aman a Self Taught Programmer & Web Developer
 ![up](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)
 ## About Me :smiley: 
 #### Love :blue_heart: to explore new fields & technologies, It keeps me motivated to learn more and delve deep and acquire better insights of new trends & technologies to work on.
