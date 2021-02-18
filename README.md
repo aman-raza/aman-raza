@@ -1,4 +1,4 @@
-## Hi there<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="40">I'm Aman a Self Taught Programmer & Web Developer
+## Hi there<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="40">I'm Aman a Self Taught Programmer & Cyber Security Researcher
 ![up](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)
 ## About Me :smiley: 
 #### Love :blue_heart: to explore new fields & technologies, It keeps me motivated to learn more and delve deep and acquire better insights of new trends & technologies to work on.
