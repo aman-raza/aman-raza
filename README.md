@@ -15,6 +15,7 @@
 #### :radio_button: C (Programming Languages)
 #### :radio_button: C++ (Programming Languages)
 #### :radio_button: Python (Programming Languages)
+#### :radio_button: Linux
 #### :radio_button: Computer Networking
 #### :radio_button: Operating System
 #### :radio_button: Docker
