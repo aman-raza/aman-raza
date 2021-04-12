@@ -15,12 +15,13 @@
 #### :radio_button: C (Programming Languages)
 #### :radio_button: C++ (Programming Languages)
 #### :radio_button: Python (Programming Languages)
-#### :radio_button: Networking
+#### :radio_button: Computer Networking
 #### :radio_button: Operating System
 #### :radio_button: Docker
 #### :radio_button: Kubernetes
 #### :radio_button: HTML & CSS
 #### :radio_button: JavaScript (Programming Languages)
+#### :radio_button: Go (Programming Language)
 #### :radio_button: Perl (Programming Language)
 
 ![bottom](https://www.nicepng.com/png/full/82-821447_receive-updates-from-calgary-dream-centre-footer-city.png)
