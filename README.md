@@ -12,14 +12,8 @@
 
 ## Techstack & Skills :dart:
 
-#### :radio_button: C (Programming Languages)
-#### :radio_button: C++ (Programming Languages)
-#### :radio_button: Python (Programming Languages)
-#### :radio_button: Linux
-#### :radio_button: Computer Networking
-#### :radio_button: Docker
-#### :radio_button: Kubernetes
-#### :radio_button: HTML & CSS
-#### :radio_button: JavaScript (Programming Languages)
+<pre>
+<img src="https://www.mycplus.com/mycplus/wp-content/uploads/2020/10/c.png" width="50">       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="45">       <img src="https://lh3.googleusercontent.com/proxy/Lwst6dGOlVIDFE9zmSYL3uhXS6zqtgrBoHKNnE8n1M_grWSj-yimWMsG04EvBTv7s2pn4wZPiXK2SL9Z0qgcqAzKh0yEoXP-TsA3PXkJgoUPiRyBE7865NoDv6HUlDVkZmTy1g" width="45">       <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="50">       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="45">       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="45">       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1200px-Devicon-css3-plain.svg.png" width="45">       <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="40">     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="40">
+</pre>
 
 ![bottom](https://www.nicepng.com/png/full/82-821447_receive-updates-from-calgary-dream-centre-footer-city.png)
