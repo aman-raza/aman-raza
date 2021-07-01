@@ -1,4 +1,4 @@
-## Hi there<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="40">I'm Aman a Self Taught Programmer & Cyber Security Researcher
+## Hi there<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="40">I'm Aman a Full Stack Web Developer & Cyber Security Researcher
 <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="900">
 
 ## About Me :smiley: 
