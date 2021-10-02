@@ -12,7 +12,7 @@ I love :blue_heart: to explore new fields & technologies, It keeps me motivated 
 <li>✍️Technical Blogger <a href="https://aman-raza.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 <a href="https://hashnode.com/@amanraza" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 </li>
-<li> 🌐 Exists somewhere on <a href="https://twitter.com/theamanraza" target="_blank">
+<li> 🌐 Available on <a href="https://twitter.com/theamanraza" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/aman-raza/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
