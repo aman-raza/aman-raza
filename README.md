@@ -18,7 +18,7 @@ I love :blue_heart: to explore new fields & technologies, It keeps me motivated 
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 </a></li>
-<li>💼 Co-founder at <a href="https://spiderweb.tech/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/%20-SpiderWeb%20-red" /></a></li>
+<li>💼 Co-founder at <a href="https://spiderweb.tech/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/SpiderWeb-red?style=for-the-badge&logo=&logoColor=white" /></a></li>
 
 
 ## 🧰 Toolbox
