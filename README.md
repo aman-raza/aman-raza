@@ -3,7 +3,7 @@
 
 ### 👋 Hello there!
 
-My name is Aman. I'm a Web Developer & a part time thinker and sometimes I write blogs too. I love to write poems & quotes. As a technical content writer, I write for one publishers on [Medium](https://aman-raza.medium.com/) and wrote few on [Hashnode](https://hashnode.com/@amanraza) too.
+My name is Aman. I'm a Web Developer also a part time thinker and sometimes I write blogs too. I love to write poems & quotes. As a technical content writer, I write for one publishers on [Medium](https://aman-raza.medium.com/) and wrote few on [Hashnode](https://hashnode.com/@amanraza) too.
 
 I love :blue_heart: to explore new fields & technologies, It keeps me motivated to learn more and delve deep and acquire better insights of new trends & technologies to work on.
 
