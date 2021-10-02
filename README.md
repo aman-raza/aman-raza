@@ -9,7 +9,7 @@ I love :blue_heart: to explore new fields & technologies, It keeps me motivated 
 
 ### 🧐 Few Things About Me
 <li>💼 Co-founder at <a href="https://spiderweb.tech/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/%20-SpiderWeb%20-red" /></a></li>
-<li>✍️Technical Blogger at <a href="https://aman-raza.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
+<li>✍️Technical Blogger <a href="https://aman-raza.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 <a href="https://hashnode.com/@amanraza" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 </li>
 <li> 🌐 Exists somewhere on <a href="https://twitter.com/theamanraza" target="_blank">
@@ -20,8 +20,6 @@ I love :blue_heart: to explore new fields & technologies, It keeps me motivated 
 </a></li>
 
 <li>🖥️ Coder</li>
-<li>⚡ Fun facts: Speaks English, Mandarin, Indonesian, Japanese and Korean. INTJ. Drinks tea everyday.</li>
-<li>📖 Currently Reading: "Thinking fast and slow" by Daniel Kahneman</li>
 
 ### 🧰 Toolbox
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![KaliLinux](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kalilinux&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
