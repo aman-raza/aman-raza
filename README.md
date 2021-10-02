@@ -1,4 +1,4 @@
-![I am Aman 👀](https://user-images.githubusercontent.com/53443872/135728988-ede08b50-7694-4144-896a-fff7b59400b5.png)
+![I am Aman 👀](https://user-images.githubusercontent.com/53443872/135729235-13a4c6fe-fdaf-42e6-9597-be5d63e1a61d.gif)
 
 
 ### 👋 Hello there!
