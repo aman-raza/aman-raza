@@ -39,5 +39,5 @@ I love :blue_heart: to explore new fields & technologies, It keeps me motivated 
 
 -----
 
-![Aman's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-raza&theme=black-white)-
-![Aman's github stata](https://github-readme-stats.vercel.app/api?username=aman-raza&theme=black-white)
+![Aman's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-raza&theme=black-orange)
+![Aman's github stata](https://github-readme-stats.vercel.app/api?username=aman-raza&theme=black-orange)
