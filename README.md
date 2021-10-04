@@ -8,7 +8,7 @@ My name is Aman. I'm a Web Developer also a part time thinker and sometimes I wr
 I love :blue_heart: to explore new fields & technologies, It keeps me motivated to learn more and delve deep and acquire better insights of new trends & technologies to work on.
 
 ## 🧐 Few Things About Me
-<li>🖥️ Coder</li>
+<li>🖥️ Coder & Developer</li>
 <li>✍️Technical Blogger <a href="https://aman-raza.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 <a href="https://hashnode.com/@amanraza" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 </li>
