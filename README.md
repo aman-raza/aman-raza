@@ -28,7 +28,7 @@ I love :blue_heart: to explore new fields & technologies, It keeps me motivated 
 
 ------
 
-#👇 Check out my blogs!
+# 👇 Check out my blogs!
 <!-- BLOG:START -->
 - [System Design (Part 1)](https://medium.com/tek-society/system-design-part-1-28e5296fa711)
 - [System Design (Part 2)](https://medium.com/tek-society/system-design-part-2-56d43a5ea79a)
