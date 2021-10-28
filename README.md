@@ -10,6 +10,7 @@ I love :blue_heart: to explore new fields & technologies, It keeps me motivated 
 # 🧐 Few Things About Me
 <li>🖥️ Coder & Developer</li>
 <li>📂 Sometimes I explore Linux filesystem</li>
+<li>⛄ Ask me about stuffs related to Linux Kernel</li>
 <li>✍️ Technical Blogger <a href="https://aman-raza.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 <a href="https://hashnode.com/@amanraza" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 </li>
