@@ -3,7 +3,7 @@
 
 # 👋 Hello there!
 
-I'm Aman a pre-final year student pursuing Computer Science & Engineering, a Web-developer, exploring DevOps (microservices & distributed syatems). As a technical content writer, I wrote for one publishers on [Medium](https://aman-raza.medium.com/) and wrote few blogs on [Hashnode](https://hashnode.com/@amanraza) too.
+I'm Aman a pre-final year student pursuing Computer Science & Engineering, a Web-developer, exploring DevOps (microservices & distributed syatems).
 
 I love :blue_heart: to explore new fields & technologies, It keeps me motivated to learn more and delve deep and acquire better insights of new trends & technologies to work on.
 
