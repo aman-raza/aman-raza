@@ -1,7 +1,3 @@
-
-![Untitled design](https://user-images.githubusercontent.com/53443872/147838477-ba52c4fc-9191-4b34-bf9a-0230ee101e81.gif)
-
-
 # 👋 Hello there!
 
 I'm Aman a pre-final year student pursuing Computer Science & Engineering, a Web-developer, exploring DevOps (microservices & distributed syatems).
