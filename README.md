@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-I'm Aman a pre-final year student pursuing Computer Science & Engineering, a Web-developer, exploring DevOps (Microservices & Distributed systems).
+I'm Aman a pre-final year student pursuing Computer Science & Engineering, a Web-developer (MERN), exploring DevOps (Microservices & Distributed systems).
 
 I love :blue_heart: to explore new fields & technologies, It keeps me motivated to learn more and delve deep and acquire better insights of new trends & technologies to work on.
 
