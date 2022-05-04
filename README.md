@@ -23,17 +23,6 @@ I love :blue_heart: to explore new fields & technologies, It keeps me motivated 
 
 ------
 
-# 👇 Check out my blogs!
-<!-- BLOG:START -->
-- [System Design (Part 1)](https://medium.com/tek-society/system-design-part-1-28e5296fa711)
-- [System Design (Part 2)](https://medium.com/tek-society/system-design-part-2-56d43a5ea79a)
-- [9 Computer Networking Services](https://amanraza.hashnode.dev/9-computer-networking-services)
-- [Guided way to change permissions of files and directories on Linux based operating systems](https://amanraza.hashnode.dev/guided-way-to-change-permissions-of-files-and-directories-on-linux-based-operating-systems)
-- [Create Pull Requests](https://aman-raza.medium.com/pull-requests-through-git-d24e79427664)
-<!-- BLOG:END -->
-
------
-
 <!-- <p align="center"><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-raza&theme=dark"></a></p> -->
 <p align="center"><a><img src="https://github-readme-streak-stats.herokuapp.com?user=aman-raza&theme=dark"></a></p>
 <p align="center"><a><img src="https://github-readme-stats.vercel.app/api?username=aman-raza&theme=dark"></a></p>
