@@ -1,13 +1,11 @@
 # 👋 Hello there!
 
-I'm Aman a pre-final year student pursuing Computer Science & Engineering, a Web-developer (MERN), exploring DevOps (Microservices & Distributed systems).
+I'm Aman a pre-final year student pursuing Computer Science & Engineering, a Full Stack Web-developer, exploring DevOps (Microservices & Distributed systems).
 
 I love :blue_heart: to explore new fields & technologies, It keeps me motivated to learn more and delve deep and acquire better insights of new trends & technologies to work on.
 
 # 🧐 Few Things About Me
-<li>🖥️ Coder & Developer</li>
 <li>📂 Exploring Linux filesystem</li>
-<li>⛄ Ask me about stuffs related to Linux Kernel & Web</li>
 <li>✍️ Technical Blogger <a href="https://aman-raza.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 <a href="https://hashnode.com/@amanraza" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 </li>
