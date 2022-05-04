@@ -2,7 +2,7 @@
 
 ------
 
-### 👋 Hello there !
+###  Aman here <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="25px"> !
 
 - 🔭 I’m currently exploring DevOps
 - 🌱 I’m currently learning about Data Structures and Algorithms
@@ -22,8 +22,7 @@
 ------
 
 <!-- <p align="center"><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-raza&theme=dark"></a></p> -->
-<p align="center"><a><img src="https://github-readme-streak-stats.herokuapp.com?user=aman-raza&theme=dark"></a></p>
-<p align="center"><a><img src="https://github-readme-stats.vercel.app/api?username=aman-raza&theme=dark"></a></p>
+<p align="center"><a><img src="https://github-readme-streak-stats.herokuapp.com?user=aman-raza&theme=dark"> <img src="https://github-readme-stats.vercel.app/api?username=aman-raza&theme=dark"></a></p>
 
 -----
 
