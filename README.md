@@ -2,7 +2,7 @@
 
 ------
 
-###  aman here <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="25px"> !
+##  aman here <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="25px"> !
 
 - 🔭 I’m currently exploring DevOps
 - 🌱 I’m currently learning about Data Structures and Algorithms
