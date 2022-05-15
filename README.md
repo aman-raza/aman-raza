@@ -1,8 +1,8 @@
 # 🚀 Hii Fellow Developers 🚀
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/aman-raza/)
 [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square)](https://hashnode.com/@amanraza)
-[![Medium Badge](https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white)](https://aman-raza.medium.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/aman-raza/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white)](https://aman-raza.medium.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanraza1234@gmail.com)](mailto:amanraza1234@gmail.com)
 
 ------
