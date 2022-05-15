@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning about Data Structures and Algorithms
 - 👯 I’m looking forward to collaborate on DevOps Projects
 - 💬 Ask me about Computer Networking stuffs
-- 🌹 Fun fact: I love Poetry & cats 🐈
+- 🌹 Fun fact: I love Poetry & Cats 🐈
 
 ------
 
