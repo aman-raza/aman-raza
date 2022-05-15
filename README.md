@@ -1,4 +1,9 @@
-# <h3 align="center">🚀 Full Stack Web Developer 🚀</h3>
+# 🚀 Hii Fellow Developer 🚀
+
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square)](https://hashnode.com/@amanraza)
+[![Medium Badge](https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white)](https://aman-raza.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/aman-raza/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanraza1234@gmail.com)](mailto:amanraza1234@gmail.com)
 
 ------
 
@@ -8,9 +13,6 @@
 - 🌱 I’m currently learning about Data Structures and Algorithms
 - 👯 I’m looking forward to collaborate on DevOps Projects
 - 💬 Ask me about Computer Networking stuffs
-- ☕ My Blogs:[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square)](https://hashnode.com/@amanraza)[![Medium Badge](https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white)](https://aman-raza.medium.com/) 
-- 📍 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/aman-raza/) 
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanraza1234@gmail.com)](mailto:amanraza1234@gmail.com)
 - 🌹 Fun fact: I like Poetry
 
 ------
