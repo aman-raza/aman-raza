@@ -7,13 +7,13 @@
 
 ------
 
-##  aman here <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="25px"> !
+##  aman here <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="25px" height="25"> !
 
 - 🔭 I’m currently exploring DevOps
 - 🌱 I’m currently learning about Data Structures and Algorithms
 - 👯 I’m looking forward to collaborate on DevOps Projects
 - 💬 Ask me about Computer Networking stuffs
-- 🌹 Fun fact: I love Poetry & Cats 🐈
+- 🌹 A secret: I love Poetry & Cats 🐈
 
 ------
 
