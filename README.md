@@ -11,7 +11,7 @@
  
 - 💻 I’m into DevOps
 - 👥 I’m looking forward to collaborate on DevOps Projects
-- 💬 Ask me about Linux and Computer Networks
+- 💬 Ask me about Linux and Networks
 - 👀 A Secret: I love Poetry 🥀 & 🐈 Cats
 
 ------
