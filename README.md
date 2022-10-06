@@ -7,7 +7,7 @@
 
 ------
 
-##  🍎 aman here <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="25px" height="25"> !
+##  🍎 aman here !
  
 - 💻 I’m into DevOps
 - 👥 I’m looking forward to collaborate on DevOps Projects
