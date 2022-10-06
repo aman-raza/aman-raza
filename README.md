@@ -8,9 +8,8 @@
 ------
 
 ##  🍎 aman here <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="25px" height="25"> !
-
-- 🔭 I’m into DevOps
-- 💻 I’m currently learning about Data Structures and Algorithms
+ 
+- 💻 I’m into DevOps
 - 👥 I’m looking forward to collaborate on DevOps Projects
 - 💬 Ask me about Computer Networking stuffs
 - 👀 A Secret: I love Poetry 🥀 & 🐈 Cats
