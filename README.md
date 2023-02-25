@@ -7,12 +7,11 @@
 
 ------
 
-##  🍎 aman here !
+##  ⚡ Aman here !
  
 - 💻 I’m into DevOps
-- 👥 I’m looking forward to collaborate on DevOps Projects
 - 💬 Ask me about Linux & Networks
-- 👀 A Secret: I love Poetry 🥀 & 🐈 Cats
+- 👀 A Secret: I love Poetry & Cats
 
 ------
 
