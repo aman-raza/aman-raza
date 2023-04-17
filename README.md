@@ -11,7 +11,6 @@
  
 - 💻 I’m into DevOps
 - 💬 Ask me about Linux & Networks
-- 👀 A Secret: I love Poetry & Cats
 
 ------
 
