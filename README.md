@@ -9,7 +9,7 @@
 
 ##  ⚡ Aman here !
  
-- 💻 I’m into DevOps
+- ∞ I’m into DevOps
 - 💬 Ask me about Linux & Networks
 
 ------
