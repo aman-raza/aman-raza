@@ -16,8 +16,7 @@ I build things because I’m curious about how they work.
 
 ```text
 Name        → Aman Raza
-Role        → Senior Software Engineer · R&D
-Mindset     → Generalist Engineer
+Mindset     → Generalist Software Engineer
 Currently   → Building · Learning · Experimenting
 Interests   → AI · Automation · Systems · Quantum Computing
 Location    → India
